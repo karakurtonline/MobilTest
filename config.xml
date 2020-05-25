@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+        xmlns       = "http://phonegap.com/ns/1.0"
+        id          = "net.karakurtonline.mobiltest"
+        versionCode = "1"
+        version     = "1.0.0"
+        
+        <name> Mobil Test </name>
+
+        <description>
+            Mobil Uygulama Test
+        </description>
+        <author href="http:karakurtonline.net" email="karakurtonline@hotmail.com">
+        KARAKURTONLİNE
+        </author>
+        <icon src="icon.png"/>
+</widget>
